@@ -17,37 +17,37 @@ const Projects = () => {
 
   const projects = [
     {
-      title: "Евгений Жиленков",
+      title: "Евгений",
       description: "Team Lead",
       imgUrl: projImg1,
     },
     {
-      title: "Денис Ефимов",
+      title: "Денис",
       description: "Team Lead",
       imgUrl: projImg2,
     },
     {
-      title: "Марина Шлыкова",
+      title: "Марина",
       description: "Team Lead",
       imgUrl: projImg3,
     },
     {
-      title: "Максим Титов",
+      title: "Максим",
       description: "Team Lead",
       imgUrl: projImg1,
     },
     {
-      title: "Дмитрий Ханюков",
+      title: "Дмитрий",
       description: "Team Lead",
       imgUrl: projImg2,
     },
     {
-      title: "Мария Шелякина",
+      title: "Мария",
       description: "Team Lead",
       imgUrl: projImg3,
     },
     {
-      title: "Олег Можевитин",
+      title: "Олег",
       description: "Team Lead",
       imgUrl: projImg2,
     },
@@ -55,34 +55,34 @@ const Projects = () => {
   const projects2 = [
     {
       title: "New Year 2023",
-      // description: "Team Lead",
+      // description: "",
       imgUrl: projImg11,
     },
     {
       title: "New Year 2023",
-      // description: "Team Lead",
+      // description: "",
       imgUrl: projImg22,
     },
     {
       title: "New Year 2023",
-      // description: "Team Lead",
+      // description: "",
       imgUrl: projImg33,
     },
   ];
   const projects3 = [
     {
-      title: "New Year 2023",
-      description: "Team Lead",
+      title: "Weekend 2023",
+      // description: "",
       imgUrl: projImg111,
     },
     {
-      title: "New Year 2023",
-      description: "Team Lead",
+      title: "Weekend 2023",
+      // description: "",
       imgUrl: projImg222,
     },
     {
-      title: "New Year 2023",
-      description: "Team Lead",
+      title: "Weekend 2023",
+      // description: "",
       imgUrl: projImg333,
     },
   ];

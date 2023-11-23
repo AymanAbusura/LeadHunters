@@ -46,9 +46,9 @@ const NavBar = () => {
             </Nav>
             <span className="navbar-text">
               <div className="social-icon">
-                <a href="https://instagram.com/lead__hunters"><img src={navIcon1} alt="" /></a>
+                <a href={process.env.REACT_APP_SECRET_INSTAGRAM_LINK}><img src={navIcon1} alt="" /></a>
               </div>
-                <a href="http://lh-landings.ru/"><button className="vvd"><span>Sign In</span></button></a>
+                <a href={process.env.REACT_APP_SECRET_LINK}><button className="vvd"><span>Sign In</span></button></a>
             </span>
           </Navbar.Collapse>
         </Container>
